@@ -4,3 +4,4 @@ Opinionated mutation testing tool:
 - Every mutation is fully valid on its own
 - Only considers covered code
 - MSI is normalized per line
+- No test tokens such as TEST_TOKEN
